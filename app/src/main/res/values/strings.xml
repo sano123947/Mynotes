@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mynotes</string>
+    <string name="ID">UPDATE notes SET title = :title, notes = :notes WHERE ID = :id</string>
+    <string name="notes">SELECT * FROM notes ORDER BY id DESC</string>
+</resources>
